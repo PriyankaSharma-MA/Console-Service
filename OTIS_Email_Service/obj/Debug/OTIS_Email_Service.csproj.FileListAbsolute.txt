@@ -1,0 +1,58 @@
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.pdb
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csprojResolveAssemblyReference.cache
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.pdb
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.dll
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.xml
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.ResolveComReference.cache
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.CoreCompileInputs.cache
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.CopyComplete
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+D:\OfficeWork\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csprojAssemblyReference.cache
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csprojResolveAssemblyReference.cache
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.pdb
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.dll
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.xml
+E:\MA\OTIS\Supriya Code\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.ResolveComReference.cache
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.ResolveComReference.cache
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\OTIS_Email_Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.ResolveComReference.cache
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.pdb
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.dll
+E:\MA\OTIS\OTIS_Email_Service\Console Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.xml
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.ResolveComReference.cache
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.CoreCompileInputs.cache
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.pdb
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.dll
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.xml
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.CopyComplete
+D:\Prateek\From\ConsoleService\28-09-2018\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csprojAssemblyReference.cache
+C:\OTIS_project\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe.config
+C:\OTIS_project\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csproj.ResolveComReference.cache
+C:\OTIS_project\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.exe
+C:\OTIS_project\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.pdb
+C:\OTIS_project\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.exe
+C:\OTIS_project\Console Service\OTIS_Email_Service\bin\Debug\OTIS_Email_Service.pdb
+C:\OTIS_project\Console Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.dll
+C:\OTIS_project\Console Service\OTIS_Email_Service\bin\Debug\Newtonsoft.Json.xml
+C:\OTIS_project\Console Service\OTIS_Email_Service\obj\Debug\OTIS_Email_Service.csprojResolveAssemblyReference.cache
